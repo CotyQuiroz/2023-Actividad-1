@@ -3,7 +3,7 @@ Sistemas de Versionado sobre Git y Github
 
 Fabricio Quevedo 
 fabque@gmail.com
-
+Coty
 
 Configuration on pc Git Configuration As you read briefly in Getting Started, you can specify Git configuration settings with the git config command. One of the first things you did was set up your name and email address:
 
